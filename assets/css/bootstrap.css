@@ -581,6 +581,7 @@ ol ol {
 .list-inline {
   padding-left: 0;
   list-style: none;
+  list-style-type: square;
 }
 .list-inline > li {
   display: inline-block;
